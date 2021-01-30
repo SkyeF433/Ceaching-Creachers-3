@@ -1,2 +1,2 @@
-# Ceaching-Creachers-3
-The not final version of my game
+# staticSquare
+A static square made using Matter.js physics engine
